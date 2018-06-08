@@ -9,9 +9,9 @@
   "gxDependencies": [
     {
       "author": "mattn",
-      "hash": "QmRRr1zSEeFmjPWJeDAdhhQBRM2kYuPFC4T1QVwXKg7UrG",
+      "hash": "QmWVGFCGGTAGrT3adV261k1h6nntcyDhGVszGV2i2pzwPe",
       "name": "go-isatty",
-      "version": "0.1.0"
+      "version": "0.2.0"
     }
   ],
   "gxVersion": "0.12.1",
@@ -19,6 +19,6 @@
   "license": "MIT",
   "name": "go-colorable",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "0.1.0"
+  "version": "0.2.0"
 }
 
